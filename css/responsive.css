@@ -1,0 +1,148 @@
+@media  (min-width: 320px) and (max-width: 576px){
+    .navbutton {
+        padding: 12px 12px;
+        font-size: 18px; 
+        margin-top: 15px;
+    }
+    nav ul li {
+        margin-left: 6px;
+        margin-top: 15px;
+       margin-bottom: -18px;
+        
+    }
+    #banner .text_area h1 {
+        font-size: 49.667px;
+        margin-top: 18px;
+    }
+    #banner .text_area p {
+       font-size: 20px;
+        margin-bottom: -16px;
+    }
+    #banner .text_area a {
+       font-size: 19px;
+       padding: 15px 15px; 
+       margin-bottom: 40px;
+
+    }
+    .heroimg{
+        width: 100%;
+
+    }
+    #banner {
+      padding-top: 65px;
+      padding-bottom: 80px;
+    }
+    #skill .title h2 {
+      font-size: 52px;
+     margin-bottom: 70px;
+    }
+    #skill {
+        margin-top: 85px;
+        margin-bottom: 65px;
+    }
+    .skill_wrapper{
+        margin-bottom: 15px;
+    }
+    #about {
+        padding-top: 60px;
+        padding-bottom: 6px;
+    }
+    .aboutimg{
+        width: 100%;
+    }
+    .about_ittle h3 {
+       font-size: 50px;
+       margin-bottom: 24px;
+    }
+    .about_ittle h6 {
+         margin-top: 100px;
+    }
+    .about_text {
+       font-size: 20px; 
+    }
+   .portfolio_title{
+    display: inline-block !important;
+   }
+   .portfolio_title h3 {
+    font-size: 54px;
+    margin-bottom: 56px;
+}
+#portfolio .first-a {
+    width: 179px;
+    height: 61px;
+    margin-bottom: 25px;
+
+}
+#portfolio .first-a i {
+    font-size: 26px;
+}
+#portfolio {
+    margin-top: 102px;
+    margin-bottom: 90px;
+}
+#testimonials h2 {
+    font-size: 50px;
+    margin-bottom: 45px;
+}
+#testimonials {
+    padding-top: 85px;
+    padding-bottom: 85px;
+   
+}
+.testimonial_tutto{
+    margin-bottom: 20px;
+
+}
+#testimonials .testimonial_item {
+  padding: 30px;
+}
+#contact .contact_title h2 {
+    font-size: 51px;
+   margin-bottom: 20px;
+}
+#contact .contact_title p {
+    font-size: 20px;
+    margin-bottom: 49px;
+}
+#contact .contact_title h6 {
+    margin-bottom: 13px;
+}
+#contact {
+    margin-top: 61px;
+    margin-bottom: 60px;
+}
+#contact .button {
+    font-size: 19px;
+   padding: 15px 35px;
+   margin-top: 41px;
+  
+}
+.footer_wrapper{
+    display: inline-block;
+}
+.footer_item ul{
+    list-style: none;
+    margin-top: 20px;
+    margin-left: -65px;
+}
+.footer_item ul li {
+    /* display: inline-block; */
+   font-size: 18px;
+   
+}
+.footer_item ul {
+    margin-top: 228px;
+    margin-left: -237px;
+}
+#footer{
+    padding-top: 70px;
+}
+#footer .footer_icons {
+    display: flex;
+    gap: 13px;
+    font-size: 16px;
+}
+.footer-img {
+    width: 191px;
+}
+}
